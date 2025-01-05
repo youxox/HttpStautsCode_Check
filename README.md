@@ -7,6 +7,12 @@
 - code = 500 ---> 500.txt
 - . . .
 
+## 安装依赖
+```
+pip install -r requirements.txt
+
+```
+
 ## 查看帮助
 ```
 > python status_code.py -h
